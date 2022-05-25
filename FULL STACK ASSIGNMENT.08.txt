@@ -1,0 +1,15 @@
+1.
+syntax errors, logic errors .
+2.
+This is done using the addition RAISING of the statements METHODS and FORM. In Class Builder and Function Builder, 
+this done by selecting exception classes when defining exceptions in the interface.
+3.
+ A try statement may have more than one except clause,
+ to specify handlers for different exceptions. At most one handler will be executed.
+4.
+When an error occurs within a method, the method creates an object and hands it off to the runtime system. 
+The object, called an exception object, contains information about the error,
+ including its type and the state of the program when the error occurred.
+5.
+Two distinct string objects with the same value are considered different exceptions. 
+This is done to force programmers to use exception names rather than their .
